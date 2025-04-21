@@ -11,3 +11,5 @@ This project uses Natural Language Processing (NLP) and Machine Learning to clas
 ## Tools
 - Python
 - Pandas, Scikit-learn, NLTK
+
+link dataset: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
