@@ -42,3 +42,6 @@ df['clean_review'] = df['review'].apply(preprocess_text)
 
 # Show original and cleaned reviews
 print(df[['review', 'clean_review']].head())
+
+# Save cleaned dataset
+df.to_csv("cleaned_IMDB_Dataset.csv", index=False)
